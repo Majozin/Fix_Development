@@ -204,3 +204,8 @@ O padrão está funcionando quando uma pessoa que não participou da conversa co
 - quais findings existem?
 - qual commit/PR representa a entrega?
 - o que falta para `DONE`?
+
+## Status obrigatório desde a criação
+
+Inclua `PROJECT_STATUS.json` antes da primeira entrega. Use `templates/PROJECT_STATUS.json` ou `python3 scripts/init_project_status.py /caminho --repository Majozin/nome`. Adote também PROJECT_STATUS.md, scripts/project_status.py e .github/workflows/project-status.yml. O baseline começa em 0%; atualize escopo, evidências e estado no mesmo PR da entrega.
+
