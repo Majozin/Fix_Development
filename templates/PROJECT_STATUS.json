@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "repository": "OWNER/REPOSITORY",
+  "name": "REPOSITORY",
+  "publish": false,
+  "updated_at": "2026-10-11",
+  "scope": {
+    "name": "Base a definir",
+    "revision": 1
+  },
+  "milestones": []
+}
